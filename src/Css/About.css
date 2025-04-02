@@ -1,0 +1,16 @@
+#background_about{
+    height:600px;
+    background-image: url('../assets/About/Threeburger.jpg');
+}
+.About{
+    text-decoration: none;
+   background-color: yellow;
+    color:white;
+    margin-right:50px;
+
+}
+.About:hover{
+    box-shadow:6px 6px 6px 6px black;
+   
+    
+}
