@@ -1,3 +1,9 @@
 .nav-item:hover{
     font-weight: 500;
 }
+.active{
+    color:black;
+}
+.nav-link {
+    color:black;
+}
