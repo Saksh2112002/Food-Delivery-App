@@ -24,16 +24,16 @@ export default function Navbar() {
             <NavLink to="/" className="nav-link active text-black" aria-current="page">HOME</NavLink>
           </li>
           <li className="nav-item mx-2">
-            <NavLink to="/AboutUs" className="nav-link">ABOUTUS</NavLink>
+            <NavLink to="/AboutUs" className="nav-link text-black">ABOUTUS</NavLink>
           </li>
           <li className="nav-item mx-2">
-          <NavLink to="/Our_Menu" className="nav-link">OURMENU</NavLink>
+          <NavLink to="/Our_Menu" className="nav-link text-black">OURMENU</NavLink>
           </li>
           <li className="nav-item mx-2">
-          <NavLink to="/Shop" className="nav-link">SHOP</NavLink>
+          <NavLink to="/Shop" className="nav-link text-black">SHOP</NavLink>
           </li>
           <li className="nav-item mx-2">
-          <NavLink to="/Contact" className="nav-link">CONTACT</NavLink>
+          <NavLink to="/Contact" className="nav-link text-black">CONTACT</NavLink>
           </li>
         </ul>
         <div className="text-end">
