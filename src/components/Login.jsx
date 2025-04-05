@@ -30,7 +30,7 @@ const Login = () => {
 
         setTimeout(() =>{
             toast.success(`Welcome ${formData.un}`,{
-                icon:''
+                icon:'🙌'
             })
         }, 1000);
 

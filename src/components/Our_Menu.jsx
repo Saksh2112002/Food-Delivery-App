@@ -476,7 +476,7 @@ const Our_Menu = () => {
 </p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.67</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>67</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                
@@ -503,7 +503,7 @@ const Our_Menu = () => {
      </p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.78</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>78</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                
@@ -528,7 +528,7 @@ const Our_Menu = () => {
                as per taste.Cook chicken with all these ingredients.For sauteing,1 medium Onion....</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.78</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>78</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                 
@@ -562,7 +562,7 @@ const Our_Menu = () => {
                </p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.66</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>66</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
               
@@ -588,7 +588,7 @@ const Our_Menu = () => {
                ......</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.88</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>88</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                
@@ -614,7 +614,7 @@ const Our_Menu = () => {
               cumin,1/2 teaspoon pepper,2 pounds ground sirloin,8 ounces sliced mushrooms,2 baby bok.....</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.67</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>67</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
               
@@ -643,7 +643,7 @@ const Our_Menu = () => {
               patties and,.....</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.78</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>78</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                
@@ -670,7 +670,7 @@ const Our_Menu = () => {
                boiled,1 grated carrot,½ cup fresh boiled peas 1onion, finely chopped,....</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.67</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>67</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                 
@@ -696,7 +696,7 @@ const Our_Menu = () => {
               chopped herbs and mix it....</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.77</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>77</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
             
@@ -724,7 +724,7 @@ const Our_Menu = () => {
                Swiss (optional),For serving: split hamburger buns, lettuce, sliced tomato,..... </p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.68</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>68</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                
@@ -751,7 +751,7 @@ const Our_Menu = () => {
                peeled and thinly sliced potatoes, cup shredded......</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                <small className="text-S">Rs.66</small>
+                <small className="text-S"><i class="bi bi-currency-rupee"></i>66</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
              
@@ -778,7 +778,7 @@ const Our_Menu = () => {
                and cook for 5 minutes.....</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
-                 <small className="text-S">Rs.80</small>
+                 <small className="text-S"><i class="bi bi-currency-rupee"></i>80</small>
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                 
