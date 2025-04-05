@@ -5,8 +5,16 @@
 .nav-link {
     color:black;
 }
+<<<<<<< HEAD
  
 .nav-link:hover{
     color:black;
     font-weight:500;
 }
+=======
+
+.nav-link:hover{
+    color:black;
+    font-weight:500;
+}
+>>>>>>> 3ed3ad7c00b9193275ba023c14c813abf850bbb7

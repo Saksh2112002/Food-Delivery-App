@@ -778,7 +778,11 @@ const Our_Menu = () => {
                and cook for 5 minutes.....</p>
               <div className="d-flex justify-content-between align-items-center">
                 <div className="btn-group">
+<<<<<<< HEAD
                  <small className="text-S"><i class="bi bi-currency-rupee"></i>80</small>
+=======
+                 <small className="text-S"<i class="bi bi-currency-rupee"></i>80</small>
+>>>>>>> 3ed3ad7c00b9193275ba023c14c813abf850bbb7
                   <button type="button"className="menu_button btn btn-sm btn-outline-secondary mx-4"><i className="bi bi-bag mx-2"></i>Add To Card</button>
                 </div>
                 
