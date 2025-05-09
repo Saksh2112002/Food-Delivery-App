@@ -1,0 +1,56 @@
+#background{
+    /* height:600px; */
+ background-image: url("../assets/Hero/hero_redbackground.jpg");
+    margin-top: -18px;
+}
+
+    .tag{
+        width:30%;
+        height:auto;
+    }
+
+    .read {
+        width:30%;
+        height:100px;
+    }
+    .span{
+        width:30%;
+        height:auto;
+    }
+
+.colspan{
+   margin-top: -100px ;
+}
+
+ h1{
+    color:white;
+   margin-top: 10px;
+    font-family:Arial;
+    font-style: bold;
+
+   
+}
+h2{
+    color:white;
+  
+    font-style: bold;
+    font-family:Arial;
+    
+} 
+h4{
+    color:white;
+    font-family: Arial;
+}
+
+.lead{
+    color:white;
+} 
+.hero{
+    color:black;
+   background-color: pink;
+    margin-left:133px;
+}
+.hero:hover{
+    background-color:gold;
+    color:white;
+}

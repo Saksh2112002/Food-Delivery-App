@@ -1,0 +1,32 @@
+.fw-light{
+    color:red;
+     
+    
+}
+.card img {
+    transition: transform .2s;
+}
+.card img:hover{
+    transform: scale(1.1); 
+}
+
+.text{
+    height:auto;
+    border-style:solid;
+    border-color:rgb(71, 17, 17);
+    background-color:rgb(75, 19, 19);
+    font-size:20px;
+    color:gold;
+  
+   
+}
+.card-topic{
+    color:black;
+    font-style:bold;
+    font-family:Arial;
+}
+.card-text{
+    color:black;
+    font-family:Arial;
+    
+}

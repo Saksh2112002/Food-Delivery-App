@@ -1,0 +1,9 @@
+#background_adds{
+    height: auto;
+background-image: url("../assets/Home/free french fries.jpg");
+}
+
+#background_burger{
+    height: auto;
+    background-image: url("../assets/Home/spicy  delicious burger.jpg");
+}

@@ -1,0 +1,20 @@
+#background_blog{
+    height: 500px;
+    opacity:0.9;
+    background-image: url('../assets/Blog/background_blog.jpg');
+}
+
+#burger_background{
+   
+     height: 630px;
+    background-image: url("../assets/Blog/cheese burger_background.jpg");
+    margin-top: 0px;
+   
+}
+
+#background_dashboard{
+    height:500px;
+    background-repeat: no-repeat;
+    background-image: url("../assets/Blog/dashboard.jpg");
+}
+

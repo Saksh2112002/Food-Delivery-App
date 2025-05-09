@@ -1,0 +1,36 @@
+#background_parallex{
+    width:100%;
+    height:600px;
+    background: url("../assets/Parallax/burgerfive.jpg") no-repeat center/cover;
+    background-attachment: fixed;
+    
+}
+
+.box{
+    rotate:6deg;
+    z-index:2;
+}
+.boxbox{
+    z-index:100;
+    rotate:-6deg;
+}
+.bigbox {
+    z-index:100;
+    rotate:3deg;
+}
+
+#background_dark{
+    background-color:rgb(243, 201, 13);
+}
+.down{
+    font-weight:400px;
+    color: rgb(82, 51, 16);
+}
+
+.SAVE{
+    color:rgb(82, 51, 16);
+}
+.on{
+    font-size: 5px;
+    color:white;
+}
