@@ -4,16 +4,16 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import {BrowserRouter, Routes, Route} from "react-router-dom"
 import Navbar from './components/Navbar'
 // import './App.css'
-import Login from './components/login'
+import Login from '../src/components/Login';
 
-import ProfilePage from './components/ProfilePage'
-import AboutUs from './components/AboutUs'
-import Home from './components/Home'
+import ProfilePage from '../src/components/ProfilePage'
+import AboutUs from '../src/components/AboutUs'
+import Home from '../src/components/Home'
 
-import Our_Menu from './components/Our_Menu'
-import Shop from './components/Shop'
-import Blog from './components/Blog'
-import Contact from './components/Contact'
+import Our_Menu from '../src/components/Our_Menu'
+import Shop from '../src/components/Shop'
+import Blog from '../src/components/Blog'
+import Contact from '../src/components/Contact'
 import { Toaster } from "react-hot-toast"
 import UserProvider from "./context/UserContext";
 
